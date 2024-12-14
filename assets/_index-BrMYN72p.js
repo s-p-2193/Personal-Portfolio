@@ -176,7 +176,7 @@ const b = () =>
         "A MERN stack LMS website uses MongoDB, Express.js, React.js, and Node.js, with HTML, CSS, JavaScript, and Stripe for payments. It offers course management, user registration, progress tracking, and secure payment processing for a seamless learning experience.",
       thumbnail: "Projects/LMS.png",
       platform: "Website",
-      github: "https://github.com/Jawad762/giro-server",
+      github: "https://github.com/s-p-2193/LMS",
       tech: [
         { name: "MongoDB", path: "tech-logos/MongoDB.png" },
         { name: "Express", path: "tech-logos/Express.png" },
@@ -194,7 +194,7 @@ const b = () =>
         "A food delivery website built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and TypeScript ensures type-safe development. With HTML, CSS, and JavaScript, it offers features like restaurant browsing, order placement, real-time tracking, and secure payments using Razorpay, delivering a smooth and reliable user experience.",
       thumbnail: "Projects/Food Delivery Website.png",
       platform: "Website",
-      github: "https://github.com/Jawad762/cup-talk",
+      github: "https://github.com/s-p-2193/QuickBite",
       tech: [
         { name: "MongoDB", path: "tech-logos/MongoDB.png" },
         { name: "Express", path: "tech-logos/Express.png" },
@@ -213,7 +213,7 @@ const b = () =>
         "A real estate website built with the MERN stack (MongoDB, Express.js, React.js, Node.js), TypeScript, and Razorpay enables users to browse, list, and manage properties seamlessly. Buyers can filter properties, while sellers can easily post listings. Razorpay integration ensures secure and hassle-free transactions, making property booking straightforward. The platform offers a user-friendly, responsive design for an efficient real estate experience.",
       thumbnail: "Projects/Real Estate Website.png",
       platform: "Website",
-      github: "https://github.com/Jawad762/commercius",
+      github: "https://github.com/s-p-2193/Estate-Heaven",
       tech: [
         { name: "MongoDB", path: "tech-logos/MongoDB.png" },
         { name: "Express", path: "tech-logos/Express.png" },
@@ -232,7 +232,7 @@ const b = () =>
         "A personal portfolio website built with HTML, CSS, and JavaScript leverages modern libraries and JSX for a dynamic, interactive interface. It showcases projects, skills, and achievements, offering a visually appealing, responsive design to highlight personal and professional accomplishments effectively.",
       thumbnail: "Projects/Portfolio.png",
       platform: "Website",
-      github: "https://github.com/Jawad762/SocialSphere-server",
+      github: "https://github.com/s-p-2193/Personal-Portfolio",
       tech: [
         { name: "HTML", path: "tech-logos/html.png" },
         { name: "CSS", path: "tech-logos/css.png" },
